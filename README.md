@@ -2,8 +2,8 @@
 
 📝 I study at **POSTECH**<br>
 🌟 And I work at **Poapper,inc.**<br>
-🌠 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><br>
-💤 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=Swift&logoColor=white">
+🌠 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><br>
+💤 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=Swift&logoColor=white">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ehdgns728)](https://solved.ac/ehdgns728) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ehdgns728&theme=cold)
